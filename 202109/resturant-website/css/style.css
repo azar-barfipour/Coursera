@@ -4,3 +4,10 @@ body {
   color: #fff;
   background-color: #61122f;
 }
+#haeder-navbar {
+  background-color: #f6b319;
+}
+.navbar-brand img {
+  width: 150px;
+  height: 150px;
+}
